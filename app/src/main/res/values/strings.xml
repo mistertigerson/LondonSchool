@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="information">Информационнный портал</string>
+    <string name="n_london_school">этот информационный портал создан для того, чтобы облегчить работу сотрудникам языковой школы London School</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
